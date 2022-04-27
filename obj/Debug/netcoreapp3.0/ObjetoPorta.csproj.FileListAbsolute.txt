@@ -1,0 +1,3 @@
+C:\Projetos\1 -BACKEND\C SHARP\ObjetoPorta\obj\Debug\netcoreapp3.0\ObjetoPorta.csprojAssemblyReference.cache
+C:\Projetos\1 -BACKEND\C SHARP\ObjetoPorta\obj\Debug\netcoreapp3.0\ObjetoPorta.AssemblyInfoInputs.cache
+C:\Projetos\1 -BACKEND\C SHARP\ObjetoPorta\obj\Debug\netcoreapp3.0\ObjetoPorta.AssemblyInfo.cs
